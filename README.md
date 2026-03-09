@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=24,43&section=header"/>
 
 <div align="center">
-  <h2>hey, i'm carlos 👋</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9370DB&width=600&size=22&center=true&lines=kpop+loving+vibecoder;royal+blue+%26+purple+fan;music+and+AI+enthusiast" alt="Typing SVG"/>
+  <h2>holaa, soy carlos 👋</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9370DB&width=600&size=22&center=true&lines=fan+del+kpop;vibecoder+por+%26+hobby+:P;entusiasta+de+la+IA+y+música" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <b>AI Tools I Vibewith</b>
+  <b>IA que uso :)</b>
   <br><br>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/8/81/OpenAI_logo.svg" alt="OpenAI Codex" title="Codex">
   <img width="48" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Copilot" title="Copilot">
@@ -26,8 +26,8 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/cortisbychar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cortisbychar&theme=zenburn" alt="GitHub Stats"/>
+  <a href="https://github.com/LSRFMCh6r">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSRFMCh6r&theme=zenburn" alt="GitHub Stats"/>
   </a>
 </div>
 
